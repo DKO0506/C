@@ -1,9 +1,9 @@
 # C
 
-### Author:
+# Author:
 David Kokiashvili 
 ---------
 
-##Summary
+#Summary
 ---------
 Basic mathematacal methods implemented in c programming in addition with a makefile in Linux OS.

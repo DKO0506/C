@@ -1,7 +1,6 @@
 # C
 
-# Author:
-David Kokiashvili 
+# Author: David Kokiashvili 
 ---------
 
 # Summary
